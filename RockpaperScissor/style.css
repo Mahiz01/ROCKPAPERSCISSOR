@@ -1,0 +1,27 @@
+.head{
+    text-align: center;
+    background-color: rgb(81, 34, 84);
+    height:12vh;
+    padding-top: 30px;
+}
+.q{
+    width:100px;
+    height:100px;
+    border-radius: 30%;
+    border: 2px solid green;
+}
+.bod{
+    justify-content: space-evenly;
+    display: flex;
+    padding-top: 150px;
+}
+.fot{
+    text-align: center;
+}
+.msg{
+    text-align: center;
+}
+.reset-btn{
+    text-align: center;
+    padding-top: 20px;
+}
